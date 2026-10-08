@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 编译输出目录
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+
+# 其他缓存
+*.log
+
